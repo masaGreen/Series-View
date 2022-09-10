@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/masaGreen/Series-Gallery/static/css/main.596cfb59.css",
+    "main.js": "/masaGreen/Series-Gallery/static/js/main.4428b54b.js",
+    "index.html": "/masaGreen/Series-Gallery/index.html",
+    "main.596cfb59.css.map": "/masaGreen/Series-Gallery/static/css/main.596cfb59.css.map",
+    "main.4428b54b.js.map": "/masaGreen/Series-Gallery/static/js/main.4428b54b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.596cfb59.css",
+    "static/js/main.4428b54b.js"
+  ]
+}
