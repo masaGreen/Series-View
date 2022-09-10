@@ -1,0 +1,33 @@
+body{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    background:#121858;
+}
+.pageclass{
+    padding:0.2em;
+    height: 1.5em;
+    width: 1.5em;
+    margin: 0.2em;
+    border: 1px solid black;
+    border-radius: 50%;
+    text-align: center;
+    font-size: large;
+}
+.paginateContainer{
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    background-color: aquamarine;
+}
+.active{
+    background-color: #121858;
+}
+.previous, .next{
+    padding:0.2em;
+    text-align: center;
+    font-size: large;
+    margin:"3px, 0"
+}

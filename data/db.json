@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "username": "username",
+      "password": "password",
+      "gender": "Male",
+      "genre": {
+        "epic": true,
+        "sci": true
+      },
+      "id": 1
+    },
+    {
+      "username": "John",
+      "password": "doe",
+      "gender": "Male",
+      "genre": {
+        "epic": true,
+        "sci": true
+      },
+      "id": 2
+    },
+    {
+      "username": "Jane",
+      "password": "jane",
+      "gender": "Male",
+      "genre": {
+        "epic": true,
+        "sci": true
+      },
+      "id": 3
+    },
+    {
+      "username": "food",
+      "password": "food",
+      "gender": "Male",
+      "genre": {
+        "epic": true,
+        "sci": true
+      },
+      "id": 4
+    },
+    {
+      "username": "david",
+      "password": "david",
+      "gender": "Male",
+      "genre": {
+        "epic": true,
+        "sci": false
+      },
+      "id": 5
+    }
+  ]
+}
